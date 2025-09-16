@@ -1,0 +1,1 @@
+Client: React + Vite + Tailwind. Run `npm install` then `npm run dev`.
